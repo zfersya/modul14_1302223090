@@ -1,0 +1,14 @@
+D:\modul14_1302223090\modul14_1302223090\bin\Debug\net8.0\modul14_1302223090.exe
+D:\modul14_1302223090\modul14_1302223090\bin\Debug\net8.0\modul14_1302223090.deps.json
+D:\modul14_1302223090\modul14_1302223090\bin\Debug\net8.0\modul14_1302223090.runtimeconfig.json
+D:\modul14_1302223090\modul14_1302223090\bin\Debug\net8.0\modul14_1302223090.dll
+D:\modul14_1302223090\modul14_1302223090\bin\Debug\net8.0\modul14_1302223090.pdb
+D:\modul14_1302223090\modul14_1302223090\obj\Debug\net8.0\modul14_1302223090.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul14_1302223090\modul14_1302223090\obj\Debug\net8.0\modul14_1302223090.AssemblyInfoInputs.cache
+D:\modul14_1302223090\modul14_1302223090\obj\Debug\net8.0\modul14_1302223090.AssemblyInfo.cs
+D:\modul14_1302223090\modul14_1302223090\obj\Debug\net8.0\modul14_1302223090.csproj.CoreCompileInputs.cache
+D:\modul14_1302223090\modul14_1302223090\obj\Debug\net8.0\modul14_1302223090.dll
+D:\modul14_1302223090\modul14_1302223090\obj\Debug\net8.0\refint\modul14_1302223090.dll
+D:\modul14_1302223090\modul14_1302223090\obj\Debug\net8.0\modul14_1302223090.pdb
+D:\modul14_1302223090\modul14_1302223090\obj\Debug\net8.0\modul14_1302223090.genruntimeconfig.cache
+D:\modul14_1302223090\modul14_1302223090\obj\Debug\net8.0\ref\modul14_1302223090.dll
